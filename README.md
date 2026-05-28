@@ -13,7 +13,7 @@
 - Python
 
 # Project And Contribution
-#Academic Management System
+## Academic Management System
 -Editor
 
 # Screenshots/Picture
