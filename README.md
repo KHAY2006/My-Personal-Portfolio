@@ -1,6 +1,6 @@
 # My-Personal-Portfolio
 
-#Personal Information
+# Personal Information
 - Name: Kayea Joy Dela Torre
 - Age: 19
 - Birthday: November 28,2006
@@ -12,19 +12,19 @@
 - GitHub
 - Python
 
-#Project And Contribution
+# Project And Contribution
 -Academic Management System
 -Editor
 
-#Screenshots/Picture
+# Screenshots/Picture
 (add images here) 
 
-#Certificate or Achievements
+# Certificate or Achievements
 - With Honor
 - Complete Attendance
 - Mutya ng Danleg 2025
 
-#Social Media Accounts
+# Social Media Accounts
 - Facebook:
 (https://www.facebook.com/share/1B3CfELb9s/) 
 - Instagram:
