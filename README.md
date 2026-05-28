@@ -13,12 +13,10 @@
 - Python
 
 #Project And Contribution
-
 -Academic Management System
 -Editor
 
 #Screenshots/Picture
-
 (add images here) 
 
 #Certificate or Achievements
@@ -27,7 +25,6 @@
 - Mutya ng Danleg 2025
 
 #Social Media Accounts
-
 - Facebook:
 (https://www.facebook.com/share/1B3CfELb9s/) 
 - Instagram:
