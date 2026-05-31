@@ -14,7 +14,7 @@
 
 # Project And Contribution
 ## Academic Management System
--Editor
+-Project Manager 
 
 # Screenshots/Picture
 (add images here) 
